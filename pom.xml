@@ -6,6 +6,8 @@
 	<modules>
 		<module>filter_demo</module>
 		<module>interceptor_demo</module>
+		<module>static_demo</module>
+		<module>jspDemo</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
