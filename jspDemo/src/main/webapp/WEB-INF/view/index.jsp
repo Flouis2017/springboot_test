@@ -4,6 +4,7 @@
 	<title>JSP Index</title>
 </head>
 <body>
-	<h1>LoL, Spring Boot integrates JSP successfully!</h1>
+	<h1>Nice, Spring Boot integrates JSP successfully!</h1>
+	<img src="../static/obito.jpg">
 </body>
 </html>
