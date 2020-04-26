@@ -8,6 +8,7 @@
 		<module>interceptor_demo</module>
 		<module>static_demo</module>
 		<module>jspDemo</module>
+		<module>shiro_demo</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
