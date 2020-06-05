@@ -17,9 +17,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.flouis</groupId>
-	<artifactId>springboot_scaffolding</artifactId>
+	<artifactId>springboot_test</artifactId>
 	<version>1.0</version>
-	<name>springboot_scaffolding</name>
+	<name>springboot_test</name>
 	<description>Spring Boot Scaffolding</description>
 
 	<properties>
